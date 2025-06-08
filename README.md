@@ -37,3 +37,4 @@ Recursion, inheritance
     ```
     super().__init__('Triangle')
     ``` 
+    * each child must implement it's __str__ function and call the super().__str__()
